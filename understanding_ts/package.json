@@ -1,0 +1,23 @@
+{
+  "name": "academind2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisyoung0101/academindTypescriptTutorial2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisyoung0101/academindTypescriptTutorial2021/issues"
+  },
+  "homepage": "https://github.com/chrisyoung0101/academindTypescriptTutorial2021#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
